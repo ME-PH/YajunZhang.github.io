@@ -7,7 +7,7 @@ description: "力学与物理在量子力学里碰撞出的火花."
 keyword: "Perovskite, Ferroelectric, Multiferroic, Solar cell, First-principles, Abinit, VASP"
 url: "http://YajunZhang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/ME-PH/YajunZhang.github.io/" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
